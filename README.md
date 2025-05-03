@@ -2,15 +2,10 @@
 
 **tips：使用前可先点右上角star，感谢支持**
 
-**tips：我们每次会在Github与QQ群同时发放各一个独立的等额Key，如需请尽快加入QQ群，群二维码请见底部**
-
-无过滤纯转发API，稳定率99%，首字响应0.8s以内，美国直连专线1Gbps大带宽双向专线加速
-
 - 无速率限制；
 - 无模型限制；
 - 无上下文参数限制；
 - 无需魔法；
-- 定期更新公益api-key；
 - 稳定，持久
 
 ## 支持模型：
@@ -67,3 +62,5 @@ AI应用选择OpenAI兼容格式，对应的API接口填写：
 
 ## 官方公众号
 ![image](https://pan.vacpoin.cn/f/NOtD/qrcode_for_gh_4129a7a5438f_430.jpg)
+## 赞赏
+![image](https://pan.vacpoin.cn/f/2di6/46de556f4e65822483bfeb44f25e00a.png)
